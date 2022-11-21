@@ -10,4 +10,4 @@
 <li>Finish! Wait for the results.</li>
 </ul>
 
-<b>DISCLAIMER</b><ins> XSS-Vuln_Scanner created by Sofoklis Karelis. is developed with the intension of using this tool only for <b>educational purpose and i am not responsible for any misuse of this tool!!</b>.
+<b>DISCLAIMER</b> XSS-Vuln_Scanner is a powerful tool that can be used to find and exploit XSS vulnerabilities. However, it is important to note that this tool should only be used <b>for educational purposes</b>, as misuse could lead to serious security risks. The developer of this tool,<b><ins> Sofoklis Karelis, takes no responsibility for any misuse of the software.</ins></b>
